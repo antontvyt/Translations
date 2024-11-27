@@ -1,2 +1,2 @@
-# Translations
-Language translations for YouClipped
+# YouClipped Language Translations
+Please use example.js as a template.
